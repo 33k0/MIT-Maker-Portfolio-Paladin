@@ -80,6 +80,8 @@ This repository is intended for **inspection and understanding**, not execution 
 This work is described in more detail in:
 
 Vuddanti, Shah, et al. *PALADIN: Self-Correcting Language Model Agents to Cure Tool-Failure Cases*. 
+
 arXiv preprint: https://arxiv.org/abs/2509.25238
+
 To appear in the Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026.  
 (Oral presentation)
